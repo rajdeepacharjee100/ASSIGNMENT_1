@@ -29,10 +29,10 @@ Write a Python program that:
 
 ### **File**
       TASK_2
-###** Expected Output**
+## **Expected Output**
 Hello,first-name last-name! Welcome to the Python program.
 
-##** How to Run the Programs**
+ ## **How to Run the Programs**
 
 1. Ensure Python 3 is installed on your system.
 2. Download or clone this repository.
