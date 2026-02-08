@@ -14,7 +14,7 @@ Write a Python program that:
 3. Displays the result of each operation on the screen.
 
 ### **File**
-TASK_1
+      TASK_1
 
 ### **Expected Output**
 The program displays the result of each mathematical operation performed on the two input numbers.
@@ -28,7 +28,7 @@ Write a Python program that:
 3. Prints a personalized greeting message using the full name.
 
 ### **File**
-TASK_2
+      TASK_2
 ###** Expected Output**
 Hello,first-name last-name! Welcome to the Python program.
 
@@ -38,8 +38,8 @@ Hello,first-name last-name! Welcome to the Python program.
 2. Download or clone this repository.
 3. Run the programs using the following commands:
    ```bash
-  python TASK_1.py
-  python TASK2.py
+     python TASK_1.py
+     python TASK2.py
 
 Technologies Used
 python
